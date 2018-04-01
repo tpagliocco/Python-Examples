@@ -22,3 +22,10 @@ if __name__ == '__main__':
             #print(l)
 
     print(l[-2])
+
+    
+    #Other Answers
+    #nums = [1, 2, 2]
+    #print sorted(list(set(nums)))[-2]
+    
+    
