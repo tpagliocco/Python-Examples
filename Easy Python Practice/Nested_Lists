@@ -1,0 +1,14 @@
+if __name__ == '__main__':
+
+    roster = []
+
+    for _ in range(int(input())):
+        name = input()
+        score = float(input())
+        students = []
+        students.append(name)
+        students.append(score)
+
+        for student in range(1):
+            roster.append(students)
+    roster.sort(key=lambda roster: roster[1])
