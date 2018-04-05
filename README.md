@@ -1,5 +1,6 @@
-# hackerrank
-List of HackerRank exercises and code challenges
+# hackerrank and repl.it work
+
+List of HackerRank and repl.it exercises and code challenges
 
 This repository is for python exercises and tutorials from HackerRank
 
