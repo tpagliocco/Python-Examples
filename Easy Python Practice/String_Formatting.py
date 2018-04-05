@@ -16,3 +16,4 @@ def print_formatted(number):
     for i in range(1,number+1):
         # here we are printing each with formatting, 0 for position, width to width, and conversion type
         print ("{0:{width}d} {0:{width}o} {0:{width}X} {0:{width}b}".format(i, width=width))
+#test
